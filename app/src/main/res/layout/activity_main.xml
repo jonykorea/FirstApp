@@ -14,4 +14,14 @@
         android:layout_height="wrap_content"
         android:text="buttona add 01"/>
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="default"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="edit text 02"/>
+
 </LinearLayout>
